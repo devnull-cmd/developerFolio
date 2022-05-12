@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1534e6bcc2a61d9c0900af1c660e52ff",
+    "revision": "0b00d4e8706993529957d7a612ff5695",
     "url": "/index.html"
   },
   {
-    "revision": "babea1284c5fe41fc80b",
+    "revision": "e79712b3058206fc2907",
     "url": "/static/css/3.df879eac.chunk.css"
   },
   {
-    "revision": "a690cdd4102100c39379",
+    "revision": "9a1a6e212e46b93378b4",
     "url": "/static/css/4.e91a4b36.chunk.css"
   },
   {
-    "revision": "f389c43dfac3876f1e08",
-    "url": "/static/css/main.80f0924c.chunk.css"
+    "revision": "8c22c54a7610fd426ebb",
+    "url": "/static/css/main.258ae530.chunk.css"
   },
   {
-    "revision": "486b336d732bd0e8e234",
-    "url": "/static/js/2.a21438e8.chunk.js"
+    "revision": "c06552130e803d0e16aa",
+    "url": "/static/js/2.92e22ad3.chunk.js"
   },
   {
     "revision": "b045256696e9edb485ef902b6be54c14",
-    "url": "/static/js/2.a21438e8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.92e22ad3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "babea1284c5fe41fc80b",
-    "url": "/static/js/3.69ea8721.chunk.js"
+    "revision": "e79712b3058206fc2907",
+    "url": "/static/js/3.5037e296.chunk.js"
   },
   {
-    "revision": "a690cdd4102100c39379",
-    "url": "/static/js/4.9c4027eb.chunk.js"
+    "revision": "9a1a6e212e46b93378b4",
+    "url": "/static/js/4.aa2ec175.chunk.js"
   },
   {
-    "revision": "f389c43dfac3876f1e08",
-    "url": "/static/js/main.3ae0250f.chunk.js"
+    "revision": "8c22c54a7610fd426ebb",
+    "url": "/static/js/main.64fd421d.chunk.js"
   },
   {
-    "revision": "16955346b636467262e7",
-    "url": "/static/js/runtime-main.668f0734.js"
+    "revision": "75d03172df7eade8cf5c",
+    "url": "/static/js/runtime-main.8717dc6e.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/amzn.74b97d53.jpg"
   },
   {
+    "revision": "47a7a717679b640ceb1b05d38c480a61",
+    "url": "/static/media/codeInLogo.47a7a717.webp"
+  },
+  {
     "revision": "51cf7192327488da3d2a171280680c16",
     "url": "/static/media/contactMailDark.51cf7192.svg"
   },
@@ -60,12 +64,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity.59389695.svg"
   },
   {
+    "revision": "e79c639294c805688be731921368c8f8",
+    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
+  },
+  {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
   },
   {
+    "revision": "829ad0a1deef4d7295adfecdf12df2be",
+    "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
     "revision": "61df8229459b9250a29dc6295a866762",
     "url": "/static/media/nitw.61df8229.png"
+  },
+  {
+    "revision": "ee62cb58630f29a6e6201b49d4c03728",
+    "url": "/static/media/pwaLogo.ee62cb58.webp"
+  },
+  {
+    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
+    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
